@@ -44,7 +44,7 @@ ${n.map((r,o)=>`${o+1}) ${r.toString()}`).join(`
         </ol>
       `,author:"CloudAtlas Team",date:"2026-05-01"},{id:"a4",categoryId:"c3",title:"AI Proof of Concept (PoC) Module",excerpt:"Validate enterprise AI feasibility and ROI quickly. Mitigate risk and execute with certainty.",content:`
         <h3>Overview</h3>
-        <p>In enterprise AI, untested assumptions lead to expensive failures. The <strong>AI Proof of Concept (PoC) Module</strong> transforms strategic discoveries into tangible, functioning prototypes in a matter of weeks by isolating the complexity of AI orchestration.</p>
+        <p>In enterprise AI, untested assumptions lead to expensive failures. The <a href="https://www.unifycloud.com/generative-ai-usecase-and-poc/" target="_blank" rel="noopener noreferrer"><strong>AI Proof of Concept (PoC) Module</strong></a> transforms strategic discoveries into tangible, functioning prototypes in a matter of weeks by isolating the complexity of AI orchestration.</p>
         
         <h3>Core Execution Capabilities</h3>
         <ul>
